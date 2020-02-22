@@ -1,6 +1,7 @@
 # ObjectOrientedProgrammingHW
 
 **Encapsulation**
+
 In this principle a private object has private fields including method(s) and variables. 
 Other objects can call on the private object using public methods.
 However, these public methods can't directly modify the private fields of that object. 
