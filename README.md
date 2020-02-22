@@ -18,5 +18,6 @@ A child class is created and it takes the methods and fields of the parents clas
 However, it can also create its own methods and variables which makes this class unique and different from the parent class.
 
 **Polymorphism**
+
 This principle describes the notion that objects can access other objects using the same interface. 
 So, an object can have its methods and the child classes can calculate or implement its own verison of the parent method. 
