@@ -20,8 +20,8 @@ def calculation():
     elif (option == 2):
         subtract()
 
-
 calculation()
 
 # This is the code or long information that goes on behind the scenes.
 # In abstraction the user only sees "Enter a value" and "Enter another value" instead of the long code.
+
